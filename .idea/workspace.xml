@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a511502f-a22f-40bd-920a-035baa9536ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/ApiBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/RegistrationApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/schemas/RegistrationDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/RegistrationNewUserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/SelectAllTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/BookPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/BookStorePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/FramePages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/PageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/ProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pages/SelectPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/utils/ScrollUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/wait/Wait.java" afterDir="false" />
-    </list>
+    <list default="true" id="a511502f-a22f-40bd-920a-035baa9536ab" name="Changes" comment="all project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683711069267</updated>
     </task>
+    <task id="LOCAL-00001" summary="all project">
+      <created>1687331678635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687331678635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +158,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all project" />
+    <option name="LAST_COMMIT_MESSAGE" value="all project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
